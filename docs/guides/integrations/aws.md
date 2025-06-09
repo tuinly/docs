@@ -76,8 +76,9 @@ Your AWS integration is now successfully set up and ready for use in your Tuinly
 
 ## Operator Roles
 
-| Role           | Description                                                                    | Template URL                                                                    |
-| -------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| Network Admin  | Manages networking resources such as VPCs, subnets, route tables, and gateways | `https://s3.amazonaws.com/operatortemplates.leanly.cloud/AwsNetworkAdmin.json`  |
-| Database Admin | Manages AWS database services including RDS and DynamoDB                       | `https://s3.amazonaws.com/operatortemplates.leanly.cloud/AwsDatabaseAdmin.json` |
-| AWS Admin      | Full administrative access to manage and operate all AWS resources             | `https://s3.amazonaws.com/opsassets.tuinly.com/AdministratorAccess.json`        |
+| Role            | Description                                                                    | Template URL                                                                     |
+| --------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Database Admin  | Manages AWS database services including RDS and DynamoDB                       | `https://s3.amazonaws.com/operatortemplates.leanly.cloud/AwsDatabaseAdmin.json`  |
+| DevOps Engineer | Manages platform resources such as ECS, EKS and Lambda functions               | `https://s3.amazonaws.com/operatortemplates.leanly.cloud/AwsDevOpsEngineer.json` |
+| Network Admin   | Manages networking resources such as VPCs, subnets, route tables, and gateways | `https://s3.amazonaws.com/operatortemplates.leanly.cloud/AwsNetworkAdmin.json`   |
+| AWS Admin       | Full administrative access to manage and operate all AWS resources             | `https://s3.amazonaws.com/opsassets.tuinly.com/AdministratorAccess.json`         |
