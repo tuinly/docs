@@ -10,8 +10,8 @@ Your Tuinly account is only as powerful as the integrations you enable. By conne
 
 - Deploy a cloud landing zone with your cloud provider of choice (e.g. [AWS](/guides/integrations/aws))
 
-- Self servce CI/CD processes by the click of a button (e.g. [GitLab Pipelines](/guides/integrations/gitlab))
+- Self servce CI/CD processes by the click of a button (e.g. [GitHub Actions Workflows](/guides/integrations/github))
 
-- Streamline observability instrumentation, from simple out-of-the-box monitoring solutions (e.g. [AWS CloudWatch](/guides/integrations/aws)) to advanced observability suites (e.g. [Dynatrace](/guides/integrations/dynatrace))
+- Streamline observability instrumentation, from simple out-of-the-box monitoring solutions (e.g. [AWS CloudWatch](/guides/integrations/aws)) to advanced observability suites (e.g. Dynatrace - coming soon!)
 
 ... and much more.
