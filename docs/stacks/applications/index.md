@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
-sidebar_label: Application Stacks
+sidebar_label: Applications
 ---
 
-# Application Stacks
+# Applications
+
+Coming soon...

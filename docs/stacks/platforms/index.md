@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
-sidebar_label: Platform Stacks
+sidebar_label: Platforms
 ---
 
-# Platform Stacks
+# Platforms
 
 Coming soon...

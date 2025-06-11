@@ -1,6 +1,8 @@
 ---
 sidebar_position: 3
-sidebar_label: Infra Stacks
+sidebar_label: Infrastructure
 ---
 
-# Infra Stacks
+# Infrastructure
+
+Coming soon...

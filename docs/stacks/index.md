@@ -5,14 +5,17 @@ sidebar_label: Stacks
 
 # Stacks
 
-Stacks are the modular building blocks in Tuinly that allow you to deploy cloud infrastructure, platforms, and applications. When combined, these stacks enable the creation of full-stack cloud workloads. Each stack—whether focused on infrastructure, platforms, or applications—supports a variety of technologies, giving your organization the flexibility to mix and match components based on your specific use case.
+> Stacks are currently in preview — we're still ironing out the magic.
+> We’re refining things based on your input. Yes, yours.
+
+Stacks are the modular building blocks in Tuinly that allow you to deploy cloud infrastructure, platforms, and applications. When combined, these stacks enable the creation of full-stack cloud workloads. Each stack — whether focused on infrastructure, platforms, or applications — supports a variety of technologies, giving your organization the flexibility to mix and match components based on your specific use case.
 
 For example, you could deploy an Angular, React, or any other web application on a managed Kubernetes cluster, a single-instance VM, or other infrastructure types. These can be hosted on different cloud providers, such as Amazon Web Services, Google Cloud, and more — allowing for diverse deployment strategies depending on your needs.
 
 ### Multi-Technology Support
 
 Stacks accommodate a wide range of technologies, enabling you to build tailored environments. Whether it's deploying a Kubernetes cluster or spinning up virtual machines, stacks give you the freedom to design workloads your way.
-  
+
 ### Integration with Other Services
 
 Stacks represent the resources created in any of your tenant's [integrations](../guides/integrations), such as GitHub or GitLab repositories, AWS Elastic Kubernetes Service (EKS), Google Kubernetes Engine (GKE), and others. These stacks serve as your **single point of entry** for monitoring, CI/CD pipelines, and configuration.
