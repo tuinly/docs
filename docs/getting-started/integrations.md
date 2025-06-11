@@ -25,10 +25,10 @@ For a full list of available integrations head over to our [integration docs](..
 
 In this getting started guide, we’ll walk through deploying a simple static website. Before deploying the actual application, we need to set up two essential integrations:
 
-1. **Infrastructure Provider**: This allows us to deploy the necessary infrastructure for your application.
-2. **Git Provider**: This enables hosting and managing your application’s source code.
+1. **Git Provider**: This enables hosting and managing your application’s source code.
+1. **Cloud Provider**: This allows us to deploy the necessary cloud resources for your application.
 
-This guide will cover AWS and GitHub integrations, but you’re free to choose any supported providers that suit your needs. For example, you can opt for [Microsoft Azure](../guides/integrations/azure) or [Google Cloud](../guides/integrations/gcp) as your infrastructure provider, or use [GitLab](../guides/integrations/gitlab) or [Bitbucket](../guides/integrations/bitbucket) for source code management.
+This guide will cover AWS and GitHub integrations. Later, you’ll be free to choose any supported providers that suit your needs.
 
 ### AWS Integration
 
