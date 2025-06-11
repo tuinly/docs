@@ -14,6 +14,9 @@ const config: Config = {
     rootDomain: 'tuinly.com'
   },
 
+  // Indexing is currently disabled
+  noIndex: true,
+
   // Set the production url of your site here
   url: 'https://docs.tuinly.com',
   // Set the /<baseUrl>/ pathname under which your site is served
